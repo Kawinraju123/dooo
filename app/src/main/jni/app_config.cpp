@@ -2,13 +2,13 @@
 #include <string>
 
 
-std::string SERVER_URL = "API_SERVER_URL";  //Copy API SERVER URL From Admin Panal->API Setting And Paste Here
-std::string API_KEY = "API_KEY";  //Copy API KEY From Admin Panal->API Setting And Paste Here
-std::string ONESIGNAL_APP_ID = "ONESIGNAL_APP_ID";  //Copy ONESIGNAL APP ID From Onesignal And Paste Here
-bool allowVPN = false; // If false App Will Not Open In VPN
+std::string SERVER_URL = "http://kawin.tech";  //Copy API SERVER URL From Admin Panal->API Setting And Paste Here
+std::string API_KEY = "seLZR7dHtEfWuXcF";  //Copy API KEY From Admin Panal->API Setting And Paste Here
+std::string ONESIGNAL_APP_ID = "bba4260d-8028-446f-9505-237be3310340";  //Copy ONESIGNAL APP ID From Onesignal And Paste Here
+bool allowVPN = true; // If false App Will Not Open In VPN
 bool FLAG_SECURE = "false"; //If True No Screenshort, No Screen Recording in Application
 bool allowRoot = "true"; // If false App Will Not Open In Rooted Device
-std::string YOUTUBE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+std::string YOUTUBE_API_KEY = "AIzaSyBHzaf3e6U5z0NKEu3p5l0yQVwQPp7-2bs";
 bool unity_ad_testMode = "false";
 
 
